@@ -1,0 +1,5 @@
+INFO:root:could not convert string to float: '+'
+INFO:root:calculator() takes 3 positional arguments but 5 were given
+INFO:root:calculator() missing 1 required positional argument: 'op'
+INFO:root:float division by zero
+INFO:root:No operator @
