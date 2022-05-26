@@ -1,0 +1,8 @@
+N. Anywhere Ave. | 123 | $156,852
+N. Anywhere Ave. | 124 | $157,923
+N. Anywhere Ave. | 126 | $163,812
+N. Anywhere Ave. | 127 | $144,121
+N. Anywhere Ave. | 128 | $166,356
+N. Everywhere St. | 4567 | $175,753
+N. Everywhere St. | 4568 | $166,212
+N. Everywhere St. | 4569 | $185,123
