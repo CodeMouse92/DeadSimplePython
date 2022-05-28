@@ -1,0 +1,6 @@
+40
+(30 + 7)
+9 * 3
+0xAA & 0xBB
+80
+exec('import os') or os.system('echo \"`whoami` is DOOMED\"') == 0 or 1
