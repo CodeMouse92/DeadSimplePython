@@ -3,6 +3,8 @@
 This repository contains the source code for the examples from
 "Dead Simple Python" by Jason C. McDonald (No Starch Press, October 2022).
 
+All coding examples have been tested up to Python 3.10, but should work forward to the latest Python. If you encounter any bugs, errors, typos, omissions, or forward compatibility issues, please open an Issue.
+
 ## [Buy the Book](https://nostarch.com/dead-simple-python)
 
 <img src=https://nostarch.com/sites/default/files/styles/uc_product_full/public/dead-simple-python_front.png alt="Dead Simple Python" width=200px align=right />
