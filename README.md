@@ -7,7 +7,7 @@ This repository contains the source code for the examples from
 
 <img src=https://nostarch.com/sites/default/files/styles/uc_product_full/public/dead-simple-python_front.png alt="Dead Simple Python" width=200px align=right />
 
-*Dead Simple Python* introduces the entire Python language to existing developers who are impatient to write production code. Instead of rehashing elementary computer science topics, the book dives deep into idiomatic Python patterns and the reasoning behind them. Packed with nuanced coding examples, this comprehensive guided tour on Python touches every single facet of the core language. Looking in, Python's patterns may look unusual, but looking back, you will agree they really are Dead Simple!
+*Dead Simple Python* introduces the entire Python language to existing developers who are impatient to write production code. Instead of rehashing elementary computer science topics, the book dives deep into idiomatic Python patterns and the reasoning behind them. Packed with nuanced coding examples, this comprehensive guided tour of Python touches every single facet of the core language. Looking in, Python's patterns may look unusual, but looking back, you will agree they really are Dead Simple!
 
 **NOTICE:** The author and the publisher staff put literal years of work into this book! Selling copies is our only means of getting paid for that work. Please support our efforts and purchase the book legally.("Sharing" is not caring.)
 
