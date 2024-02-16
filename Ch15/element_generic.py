@@ -1,5 +1,4 @@
 from functools import singledispatchmethod
-from typing import overload
 
 
 class Element:
@@ -32,9 +31,10 @@ class Element:
     def _(self, other: str):
         return self.symbol == other
 
-    @overload
+    @__eq__.register
     def _(self, other: float):
-        ...
+        return self.number == other
+    
     @__eq__.register
     def _(self, other: int):
         return self.number == other
@@ -93,7 +93,7 @@ class Compound:
         if 'C' in formula.keys():
             s += f"C{formula['C']}"
             del formula['C']
-            if 1 in formula.keys():
+            if 'H' in formula.keys():
                 s += f"H{formula['H']}"
                 del formula['H']
         for element, count in sorted(formula.items()):
@@ -106,7 +106,7 @@ class Compound:
         return f"{self.name}: {self}"
 
 
-hydrogen = Element('H', 6, 'hydrogen')
+hydrogen = Element('H', 1, 'hydrogen')
 carbon = Element('C', 6, 'carbon')
 oxygen = Element('O', 8, 'oxygen')
 iron = Element('Fe', 26, 'iron')
